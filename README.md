@@ -1,3 +1,8 @@
+# BK Notes
+
+- Use the -DskipTests flag with Maven, as one of discovery-service tests fails.
+- Requires use of Wavefront monitoring from VMware.
+
 # Distributed version of the Spring PetClinic - adapted for Cloud Foundry and Kubernetes 
 
 [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-cloud.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-cloud/) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
